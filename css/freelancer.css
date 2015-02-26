@@ -69,6 +69,7 @@ header {
   -o-background-size: cover;
   background-position: center top;
   background-size: 100% auto;
+  background-repeat: no-repeat;
   color: white;
   position: relative;
   text-align: center;
