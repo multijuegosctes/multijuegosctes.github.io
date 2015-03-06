@@ -48,7 +48,7 @@ $(function() {
     // Call it on the first time
     changeBackground();
     // Set an interval to continue
-    setInterval(changeBackground, 3000);
+    setInterval(changeBackground, 5000);
 });
 
 // Highlight the top nav as scrolling occurs
