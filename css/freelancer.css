@@ -102,6 +102,9 @@ header .intro-text .skills {
   /* This is for ie8 and below */
   background: rgba(200, 54, 54, 0.5);
 }
+.carousel-caption {
+  font-size: 20px;
+}
 @media (min-width: 768px) {
   header .container {
     padding-top: 200px;
